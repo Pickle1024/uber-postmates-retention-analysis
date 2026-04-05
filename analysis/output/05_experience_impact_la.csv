@@ -1,0 +1,4 @@
+delivery_experience_bucket,month_rows,avg_delivery_time_min,retention_rate
+Fast delivery months,2286,29.3,0.476
+Medium delivery months,1218,38.5,0.475
+Slow delivery months,1039,46.9,0.43

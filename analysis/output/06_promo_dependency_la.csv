@@ -1,0 +1,4 @@
+promo_bucket,users,avg_promo_share,retention_rate
+Low promo dependency,926,0.066,0.527
+Medium promo dependency,797,0.471,0.843
+High promo dependency,707,0.97,0.249

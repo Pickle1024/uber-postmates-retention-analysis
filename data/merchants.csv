@@ -1,0 +1,301 @@
+merchant_id,city,merchant_type,is_local_brand,is_trend_driven
+M0001,Los Angeles,Pizza,False,True
+M0002,Los Angeles,Late Night,True,True
+M0003,Los Angeles,Boba/Dessert,True,False
+M0004,Los Angeles,Convenience,True,False
+M0005,Los Angeles,Healthy,True,False
+M0006,Los Angeles,Healthy,True,True
+M0007,Los Angeles,Convenience,True,False
+M0008,Los Angeles,Convenience,True,False
+M0009,Los Angeles,Boba/Dessert,True,True
+M0010,Los Angeles,Grocery,True,False
+M0011,Los Angeles,Pizza,True,False
+M0012,Los Angeles,Grocery,True,True
+M0013,Los Angeles,Boba/Dessert,False,False
+M0014,Los Angeles,Sushi,False,False
+M0015,Los Angeles,Sushi,True,True
+M0016,Los Angeles,Sushi,False,False
+M0017,Los Angeles,Pizza,True,False
+M0018,Los Angeles,Boba/Dessert,False,True
+M0019,Los Angeles,Late Night,False,False
+M0020,Los Angeles,Healthy,True,True
+M0021,Los Angeles,Pizza,False,False
+M0022,Los Angeles,Sushi,False,False
+M0023,Los Angeles,Late Night,True,False
+M0024,Los Angeles,Grocery,True,False
+M0025,Los Angeles,Late Night,False,False
+M0026,Los Angeles,Late Night,True,False
+M0027,Los Angeles,Grocery,True,False
+M0028,Los Angeles,Convenience,True,False
+M0029,Los Angeles,Late Night,True,False
+M0030,Los Angeles,Pizza,False,False
+M0031,Los Angeles,Boba/Dessert,False,False
+M0032,Los Angeles,Sushi,True,True
+M0033,Los Angeles,Pizza,False,False
+M0034,Los Angeles,Fast Casual,True,False
+M0035,Los Angeles,Late Night,False,False
+M0036,Los Angeles,Healthy,False,False
+M0037,Los Angeles,Convenience,False,False
+M0038,Los Angeles,Convenience,True,False
+M0039,Los Angeles,Pizza,True,False
+M0040,Los Angeles,Sushi,True,True
+M0041,Los Angeles,Pizza,False,False
+M0042,Los Angeles,Convenience,True,False
+M0043,Los Angeles,Pizza,True,False
+M0044,Los Angeles,Convenience,True,True
+M0045,Los Angeles,Boba/Dessert,False,False
+M0046,Los Angeles,Sushi,False,False
+M0047,Los Angeles,Healthy,True,True
+M0048,Los Angeles,Grocery,False,False
+M0049,Los Angeles,Sushi,True,False
+M0050,Los Angeles,Healthy,True,True
+M0051,Los Angeles,Healthy,True,True
+M0052,Los Angeles,Boba/Dessert,True,False
+M0053,Los Angeles,Fast Casual,True,False
+M0054,Los Angeles,Sushi,True,False
+M0055,Los Angeles,Healthy,True,False
+M0056,Los Angeles,Grocery,True,False
+M0057,Los Angeles,Grocery,True,False
+M0058,Los Angeles,Boba/Dessert,True,True
+M0059,Los Angeles,Fast Casual,True,False
+M0060,Los Angeles,Grocery,True,False
+M0061,Los Angeles,Fast Casual,True,False
+M0062,Los Angeles,Convenience,True,False
+M0063,Los Angeles,Late Night,True,True
+M0064,Los Angeles,Late Night,True,False
+M0065,Los Angeles,Late Night,True,False
+M0066,Los Angeles,Healthy,True,True
+M0067,Los Angeles,Fast Casual,True,False
+M0068,Los Angeles,Late Night,True,False
+M0069,Los Angeles,Boba/Dessert,True,False
+M0070,Los Angeles,Pizza,True,False
+M0071,Los Angeles,Grocery,False,False
+M0072,Los Angeles,Pizza,False,True
+M0073,Los Angeles,Grocery,False,True
+M0074,Los Angeles,Pizza,False,False
+M0075,Los Angeles,Grocery,True,False
+M0076,Los Angeles,Grocery,True,True
+M0077,Los Angeles,Late Night,False,False
+M0078,Los Angeles,Late Night,True,False
+M0079,Los Angeles,Boba/Dessert,False,False
+M0080,Los Angeles,Grocery,False,False
+M0081,Los Angeles,Late Night,False,False
+M0082,Los Angeles,Grocery,False,False
+M0083,Los Angeles,Boba/Dessert,True,False
+M0084,Los Angeles,Fast Casual,True,True
+M0085,Los Angeles,Sushi,True,False
+M0086,Los Angeles,Convenience,True,False
+M0087,Los Angeles,Fast Casual,True,True
+M0088,Los Angeles,Late Night,True,False
+M0089,Los Angeles,Fast Casual,True,False
+M0090,Los Angeles,Boba/Dessert,True,True
+M0091,Los Angeles,Healthy,True,False
+M0092,Los Angeles,Boba/Dessert,False,False
+M0093,Los Angeles,Sushi,True,False
+M0094,Los Angeles,Pizza,True,True
+M0095,Los Angeles,Convenience,True,False
+M0096,Los Angeles,Late Night,True,True
+M0097,Los Angeles,Grocery,True,False
+M0098,Los Angeles,Healthy,True,True
+M0099,Los Angeles,Late Night,True,False
+M0100,Los Angeles,Pizza,False,False
+M0101,Los Angeles,Pizza,True,True
+M0102,Los Angeles,Fast Casual,True,True
+M0103,Los Angeles,Fast Casual,True,False
+M0104,Los Angeles,Boba/Dessert,True,True
+M0105,Los Angeles,Late Night,False,False
+M0106,Los Angeles,Pizza,True,False
+M0107,Los Angeles,Fast Casual,False,True
+M0108,Los Angeles,Healthy,True,True
+M0109,Los Angeles,Pizza,True,False
+M0110,Los Angeles,Late Night,False,False
+M0111,Los Angeles,Fast Casual,True,True
+M0112,Los Angeles,Late Night,False,False
+M0113,Los Angeles,Grocery,False,True
+M0114,Los Angeles,Sushi,True,False
+M0115,Los Angeles,Healthy,True,True
+M0116,Los Angeles,Healthy,True,False
+M0117,Los Angeles,Healthy,True,True
+M0118,Los Angeles,Pizza,True,True
+M0119,Los Angeles,Fast Casual,False,False
+M0120,Los Angeles,Grocery,True,True
+M0121,San Francisco,Convenience,True,False
+M0122,San Francisco,Boba/Dessert,False,False
+M0123,San Francisco,Convenience,False,False
+M0124,San Francisco,Boba/Dessert,False,True
+M0125,San Francisco,Grocery,False,False
+M0126,San Francisco,Sushi,False,False
+M0127,San Francisco,Fast Casual,False,True
+M0128,San Francisco,Sushi,True,False
+M0129,San Francisco,Healthy,True,True
+M0130,San Francisco,Convenience,True,False
+M0131,San Francisco,Pizza,False,False
+M0132,San Francisco,Convenience,True,False
+M0133,San Francisco,Late Night,True,True
+M0134,San Francisco,Convenience,True,True
+M0135,San Francisco,Fast Casual,True,False
+M0136,San Francisco,Convenience,False,True
+M0137,San Francisco,Late Night,False,False
+M0138,San Francisco,Healthy,True,False
+M0139,San Francisco,Sushi,False,False
+M0140,San Francisco,Grocery,True,False
+M0141,San Francisco,Sushi,False,False
+M0142,San Francisco,Convenience,True,True
+M0143,San Francisco,Pizza,False,False
+M0144,San Francisco,Late Night,False,False
+M0145,San Francisco,Sushi,False,True
+M0146,San Francisco,Convenience,False,False
+M0147,San Francisco,Boba/Dessert,False,False
+M0148,San Francisco,Boba/Dessert,True,True
+M0149,San Francisco,Pizza,True,True
+M0150,San Francisco,Sushi,False,True
+M0151,San Francisco,Late Night,True,False
+M0152,San Francisco,Healthy,False,True
+M0153,San Francisco,Grocery,False,False
+M0154,San Francisco,Boba/Dessert,False,False
+M0155,San Francisco,Convenience,False,False
+M0156,San Francisco,Convenience,False,False
+M0157,San Francisco,Fast Casual,False,True
+M0158,San Francisco,Fast Casual,False,False
+M0159,San Francisco,Healthy,False,True
+M0160,San Francisco,Pizza,False,False
+M0161,San Francisco,Fast Casual,True,False
+M0162,San Francisco,Grocery,False,False
+M0163,San Francisco,Boba/Dessert,True,True
+M0164,San Francisco,Convenience,False,True
+M0165,San Francisco,Pizza,False,False
+M0166,San Francisco,Grocery,False,False
+M0167,San Francisco,Convenience,True,False
+M0168,San Francisco,Grocery,False,False
+M0169,San Francisco,Pizza,False,True
+M0170,San Francisco,Convenience,False,True
+M0171,San Francisco,Pizza,True,False
+M0172,San Francisco,Convenience,True,True
+M0173,San Francisco,Grocery,False,False
+M0174,San Francisco,Fast Casual,True,True
+M0175,San Francisco,Convenience,True,False
+M0176,San Francisco,Boba/Dessert,False,True
+M0177,San Francisco,Convenience,True,False
+M0178,San Francisco,Convenience,True,False
+M0179,San Francisco,Pizza,False,False
+M0180,San Francisco,Grocery,True,True
+M0181,San Diego,Convenience,True,False
+M0182,San Diego,Sushi,False,True
+M0183,San Diego,Boba/Dessert,True,False
+M0184,San Diego,Healthy,True,True
+M0185,San Diego,Convenience,False,False
+M0186,San Diego,Boba/Dessert,False,False
+M0187,San Diego,Pizza,False,True
+M0188,San Diego,Fast Casual,True,False
+M0189,San Diego,Grocery,False,False
+M0190,San Diego,Pizza,False,False
+M0191,San Diego,Boba/Dessert,False,True
+M0192,San Diego,Boba/Dessert,False,False
+M0193,San Diego,Fast Casual,True,False
+M0194,San Diego,Fast Casual,False,False
+M0195,San Diego,Late Night,False,False
+M0196,San Diego,Sushi,False,False
+M0197,San Diego,Grocery,True,False
+M0198,San Diego,Sushi,True,False
+M0199,San Diego,Sushi,True,False
+M0200,San Diego,Convenience,False,False
+M0201,San Diego,Healthy,True,True
+M0202,San Diego,Convenience,False,False
+M0203,San Diego,Convenience,True,True
+M0204,San Diego,Healthy,False,False
+M0205,San Diego,Pizza,False,True
+M0206,San Diego,Healthy,False,True
+M0207,San Diego,Pizza,True,False
+M0208,San Diego,Sushi,False,False
+M0209,San Diego,Convenience,False,False
+M0210,San Diego,Boba/Dessert,False,False
+M0211,San Diego,Sushi,True,True
+M0212,San Diego,Convenience,True,False
+M0213,San Diego,Fast Casual,False,False
+M0214,San Diego,Boba/Dessert,False,False
+M0215,San Diego,Convenience,False,False
+M0216,San Diego,Convenience,False,True
+M0217,San Diego,Boba/Dessert,True,True
+M0218,San Diego,Fast Casual,False,False
+M0219,San Diego,Grocery,True,True
+M0220,San Diego,Sushi,False,False
+M0221,San Diego,Boba/Dessert,True,False
+M0222,San Diego,Grocery,False,False
+M0223,San Diego,Fast Casual,False,False
+M0224,San Diego,Pizza,False,False
+M0225,San Diego,Sushi,False,False
+M0226,Seattle,Late Night,True,False
+M0227,Seattle,Sushi,False,False
+M0228,Seattle,Boba/Dessert,False,True
+M0229,Seattle,Healthy,False,False
+M0230,Seattle,Healthy,False,False
+M0231,Seattle,Convenience,False,False
+M0232,Seattle,Fast Casual,False,False
+M0233,Seattle,Late Night,True,False
+M0234,Seattle,Sushi,True,False
+M0235,Seattle,Late Night,True,False
+M0236,Seattle,Pizza,True,False
+M0237,Seattle,Healthy,False,True
+M0238,Seattle,Grocery,True,False
+M0239,Seattle,Boba/Dessert,False,False
+M0240,Seattle,Convenience,True,True
+M0241,Seattle,Convenience,True,False
+M0242,Seattle,Healthy,True,True
+M0243,Seattle,Fast Casual,True,False
+M0244,Seattle,Fast Casual,False,False
+M0245,Seattle,Fast Casual,True,False
+M0246,Seattle,Healthy,True,False
+M0247,Seattle,Pizza,True,True
+M0248,Seattle,Grocery,False,False
+M0249,Seattle,Convenience,False,False
+M0250,Seattle,Late Night,False,False
+M0251,Seattle,Pizza,False,False
+M0252,Seattle,Sushi,True,False
+M0253,Seattle,Pizza,False,False
+M0254,Seattle,Boba/Dessert,False,True
+M0255,Seattle,Sushi,True,False
+M0256,Seattle,Late Night,True,False
+M0257,Seattle,Sushi,False,False
+M0258,Seattle,Healthy,True,True
+M0259,Seattle,Fast Casual,True,False
+M0260,Seattle,Sushi,False,False
+M0261,Seattle,Pizza,False,False
+M0262,Seattle,Pizza,False,False
+M0263,Seattle,Boba/Dessert,True,True
+M0264,Seattle,Grocery,False,False
+M0265,Seattle,Late Night,False,False
+M0266,Phoenix,Fast Casual,True,True
+M0267,Phoenix,Healthy,True,False
+M0268,Phoenix,Healthy,True,True
+M0269,Phoenix,Pizza,True,False
+M0270,Phoenix,Boba/Dessert,False,False
+M0271,Phoenix,Grocery,False,False
+M0272,Phoenix,Grocery,False,False
+M0273,Phoenix,Healthy,False,False
+M0274,Phoenix,Healthy,False,False
+M0275,Phoenix,Pizza,False,False
+M0276,Phoenix,Convenience,False,False
+M0277,Phoenix,Healthy,False,True
+M0278,Phoenix,Grocery,True,True
+M0279,Phoenix,Sushi,False,True
+M0280,Phoenix,Healthy,True,False
+M0281,Phoenix,Boba/Dessert,False,False
+M0282,Phoenix,Late Night,True,True
+M0283,Phoenix,Grocery,True,False
+M0284,Phoenix,Grocery,True,False
+M0285,Phoenix,Fast Casual,True,False
+M0286,Phoenix,Healthy,True,True
+M0287,Phoenix,Fast Casual,False,False
+M0288,Phoenix,Sushi,True,False
+M0289,Phoenix,Fast Casual,True,False
+M0290,Phoenix,Fast Casual,False,False
+M0291,Phoenix,Late Night,False,False
+M0292,Phoenix,Convenience,True,False
+M0293,Phoenix,Convenience,True,False
+M0294,Phoenix,Healthy,False,False
+M0295,Phoenix,Convenience,False,False
+M0296,Phoenix,Late Night,True,False
+M0297,Phoenix,Boba/Dessert,False,False
+M0298,Phoenix,Pizza,False,False
+M0299,Phoenix,Fast Casual,True,False
+M0300,Phoenix,Convenience,False,False
