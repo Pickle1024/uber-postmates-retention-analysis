@@ -1,5 +1,7 @@
 # Postmates LA: Retention & Frequency Analysis
 
+📊 **[View Presentation Deck](deck/postmates_la_retention_analysis.pdf)**
+
 An end-to-end analysis of user retention and order frequency patterns for Postmates' Los Angeles market. The project investigates what drives repeat behavior, which user segments are worth prioritizing, and how supply-side decisions (merchant mix, promo strategy) interact with long-term retention.
 
 ---
@@ -75,5 +77,5 @@ Results are written to `analysis/output/`.
 │   ├── run_sql_analysis.py
 │   └── output/                  # Query results (CSV)
 └── deck/
-    └── postmates_la_retention_analysis.pptx
+    └── postmates_la_retention_analysis.pdf
 ```
